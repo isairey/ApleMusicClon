@@ -136,9 +136,4 @@ Este proyecto es de código abierto y puede ser usado con fines educativos y de 
 
 ---
 
-<div align="center">
-
-🚀 *Proyecto enfocado en demostrar el potencial de JavaScript en aplicaciones modernas*
-
-</div>
 
